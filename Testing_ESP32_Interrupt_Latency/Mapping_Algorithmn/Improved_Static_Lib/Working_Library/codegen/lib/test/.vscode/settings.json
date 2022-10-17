@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "fsolve.h": "c"
+    },
+    "idf.portWin": "COM4"
+}
